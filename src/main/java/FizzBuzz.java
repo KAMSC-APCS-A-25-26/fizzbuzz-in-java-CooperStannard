@@ -10,7 +10,7 @@ public class FizzBuzz {
      */
     public static void main(String[] args) {
         // TODO
-        for (int k = 1; k < 100; k++) {
+        for (int k = 1; k < 101; k++) {
             if (k % 15 == 0 ) {
                 System.out.println("FizzBuzz");
             } else if (k % 3 == 0) {
